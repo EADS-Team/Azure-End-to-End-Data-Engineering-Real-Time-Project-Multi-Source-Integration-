@@ -1,4 +1,4 @@
-# Azure-End-to-End-Data-Engineering-Multi-Source-Integration-Project
+# Azure-End-to-End-Multi-Source-Integration-Project
 
 This project demonstrates a robust and scalable data engineering pipeline in Azure that integrates diverse data sources, performs transformations, and produces a unified dataset for insightful reporting through Power BI.
 
