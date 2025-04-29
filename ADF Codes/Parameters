@@ -1,1 +1,5 @@
-
+            ***  Parameters in ADF  ***
+       Name           Type                       Default Value
+1.    fileList        Array              ["Inventory.csv","Product.csv"]
+2.    fileName        string                        @item()
+3.    outputFile      string                        @item()
