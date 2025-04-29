@@ -19,14 +19,14 @@ The project aims to support the following key business goals:
 
 ## Data Ingestion
 
-## Sources
+### Sources
 
 * SQL Server (SSMS) – Sales data  
 * Oracle Database – Store information  
 * GitHub – Inventory and Product CSV files  
 * Azure Blob Storage – Customer CSV file
   
-## Process:
+### Process:
 
 * Azure Data Factory (ADF) is used to copy data from all five sources.
 * Copy Data and ForEach activities in ADF pipelines extract the data.
@@ -34,7 +34,7 @@ The project aims to support the following key business goals:
 
 ## Data Transformation
  
-## Bronze to Silver Layer (Notebook: bronze_to_silver)
+### Bronze to Silver Layer (Notebook: bronze_to_silver)
 
 * Azure Databricks is used to read files from the Bronze layer.
 * Data transformations include:
@@ -43,7 +43,7 @@ The project aims to support the following key business goals:
   * Joining all five source tables into a single unified table called **Retail_Dataset**.
 * Old files are removed from Silver; only the latest Retail_Dataset is stored.
 
-## Silver to Gold Layer (Notebook: silver_to_gold)
+### Silver to Gold Layer (Notebook: silver_to_gold)
 
 * The Retail_Dataset is further processed into:
    * **Fact Tables**: e.g., Sales_Fact
@@ -77,19 +77,19 @@ The project aims to support the following key business goals:
 
 ## Setup Instructions
 
-## Step 1: Azure Environment Setup 
+### Step 1: Azure Environment Setup 
 
    * Create a Resource Group
    * Deploy ADF, ADLS, and Databricks
    * Create Bronze, Silver, and Gold containers in ADLS
 
-## Step 2: Ingestion
+### Step 2: Ingestion
 
    * Connect ADF to SQL Server, Oracle, GitHub, and Blob
    * Create pipelines with Copy Data & ForEach activities
    * Ingest files into the Bronze layer
 
-## Step 3: Transformation
+### Step 3: Transformation
 
    * Mount ADLS containers in Databricks
    * Run **bronze_to_silver** notebook to:
@@ -98,16 +98,18 @@ The project aims to support the following key business goals:
        * Create facts and dimensions
    * Integrate notebooks into the ADF pipeline
 
-## Step 4: Reporting
+### Step 4: Reporting
 
    * Connect Power BI to the Gold layer
    * Build reports using fact and dimension tables
 
 ## Security and Monitoring
+
    * Azure Key Vault manages credentials securely.
    * Monitor ADF pipeline runs and Databricks job executions.
 
 ## End-to-End Testing
+
    * Insert test records across source systems.
    * Validate transformations and joins in Retail_Dataset.
    * Confirm Power BI dashboards reflect current data.
