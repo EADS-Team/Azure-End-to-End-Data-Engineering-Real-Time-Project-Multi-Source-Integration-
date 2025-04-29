@@ -1,0 +1,501 @@
+product_id,product_name,category,brand,cost_price,selling_price,supplier_id
+1,Television,Groceries,Conner LLC,145.67,12.53,10
+2,Culture,Electronics,"Young, Calhoun and Newman",120.3,192.71,12
+3,Degree,Furniture,"Thompson, Morgan and Martinez",198.01,175.69,8
+4,South,Electronics,Horn-Juarez,119.77,228.17,50
+5,Possible,Groceries,Gallegos-Greer,97.82,243.84,5
+6,Argue,Furniture,Sheppard-Morse,198.84,50.02,32
+7,Improve,Furniture,"Mitchell, Jones and Walters",155.92,161.04,27
+8,Discussion,Furniture,"Hess, Hernandez and Reyes",93.25,124.51,6
+9,Soldier,Groceries,"Tapia, Solis and Ray",76.69,222.8,43
+10,Show,Furniture,Reyes LLC,165.51,67.12,20
+11,Threat,Groceries,Perry Ltd,46.37,44.05,35
+12,Available,Furniture,"King, Allen and Torres",161.55,58.62,12
+13,Whatever,Furniture,"Green, Wilcox and Sanchez",138.43,85.94,47
+14,Employee,Furniture,Whitaker-King,168.76,131.66,18
+15,Crime,Furniture,"Ward, Nguyen and Terrell",61.43,49.38,23
+16,Worry,Toys,"Bass, Carter and Strickland",114.16,53.5,49
+17,North,Groceries,Jones-Fields,68.86,32.39,2
+18,Fly,Electronics,"Anderson, Perez and Clark",93.53,113.47,10
+19,Report,Furniture,Welch-Flores,152.16,35.64,30
+20,Any,Toys,Lee-Hanna,55.33,118.54,2
+21,Base,Clothing,Cordova PLC,62.69,179.99,18
+22,Prove,Toys,"Galvan, Solis and Brown",46.18,74.06,37
+23,Letter,Electronics,Sims Ltd,71.11,37.79,22
+24,Discuss,Furniture,Sherman-Fletcher,48.73,206.01,3
+25,College,Groceries,Duarte Inc,101.41,231.75,33
+26,Assume,Groceries,Wiley-Barnes,118.38,191.03,21
+27,Quite,Electronics,"Kelly, Burke and Hernandez",101.86,45.24,8
+28,Hospital,Clothing,Shelton Ltd,184.53,28.54,14
+29,Statement,Groceries,Webb Ltd,116.73,45.75,43
+30,Understand,Clothing,Schneider-Vega,54.83,159.03,8
+31,Improve,Clothing,Peterson PLC,132.17,71.06,20
+32,Level,Clothing,"Anderson, Daniel and Ramirez",173.54,36.59,9
+33,Worker,Groceries,"French, Barnett and Adams",40.99,248.56,22
+34,Thank,Clothing,"Morris, Reynolds and Russell",86.87,64.69,28
+35,Mean,Furniture,Schmitt Ltd,113.24,144.08,1
+36,Season,Groceries,Arnold-Clark,139.34,16.65,46
+37,Throughout,Furniture,Berry Inc,91.55,98.47,10
+38,Beyond,Toys,Johnson Inc,20.78,240.95,43
+39,Maintain,Furniture,Werner-Spencer,111.77,168.92,40
+40,Camera,Furniture,Miller Inc,56.37,189.17,30
+41,American,Furniture,Allen Group,52.5,191.85,30
+42,Hundred,Toys,Reeves-Bowen,156.13,17.13,41
+43,Who,Clothing,"Mcconnell, Braun and Newman",137.24,18.22,8
+44,Two,Toys,Walsh-Patterson,70.72,132.77,26
+45,Among,Clothing,Stokes LLC,53.52,190.98,7
+46,Your,Groceries,Zimmerman-Stokes,104.74,105.9,26
+47,Edge,Clothing,"Ayala, Cooper and Lewis",151.02,153.87,38
+48,Picture,Electronics,Cameron and Sons,143.99,26.19,1
+49,Know,Furniture,Williams Ltd,54.98,73.23,11
+50,Commercial,Clothing,"Schmidt, Moore and Moss",77.27,72.26,23
+51,Moment,Toys,Garcia and Sons,38.84,142.03,35
+52,Television,Electronics,Nunez-Ellis,154.52,167.08,42
+53,Fund,Electronics,Taylor-Browning,69.37,93.86,1
+54,Lawyer,Groceries,Williams-Thompson,99.15,23.08,19
+55,Strategy,Furniture,Jackson-Conley,198.19,129.14,26
+56,Inside,Toys,Fleming-Randolph,167.73,112.75,12
+57,Always,Groceries,Rosario Inc,75.43,225.42,11
+58,Difficult,Clothing,Bailey-Mercado,24.1,158.21,49
+59,Mean,Furniture,Jackson and Sons,164.25,64.94,15
+60,Individual,Electronics,Woodward LLC,105.2,51.55,26
+61,Kitchen,Groceries,Huff Ltd,176.93,245.29,50
+62,Rather,Electronics,"Raymond, Hall and Hancock",104.8,115.32,25
+63,Owner,Groceries,Aguilar LLC,98.46,248.71,10
+64,Modern,Clothing,"Hammond, Howard and Fox",179.76,235.42,29
+65,Enjoy,Electronics,Frye LLC,183.69,113.78,22
+66,Message,Clothing,Lewis Ltd,91.72,244.56,17
+67,Certainly,Groceries,Gardner Ltd,137.4,44.24,34
+68,Time,Toys,"Clark, Thomas and Hall",105.71,96.66,9
+69,Single,Electronics,"Flores, Murphy and White",59.6,58.21,45
+70,Society,Furniture,Cook and Sons,125.49,36.74,37
+71,Light,Toys,"Day, Tapia and Greer",157.24,52.78,47
+72,Civil,Clothing,Hayes PLC,97.49,95.66,11
+73,Trade,Toys,Gordon-English,12.36,248.76,14
+74,Imagine,Clothing,"Reid, Harris and Underwood",119.33,151.19,24
+75,Build,Clothing,"Cohen, Jensen and Kennedy",12.84,192.42,14
+76,Data,Furniture,Walker-Diaz,16.64,137.76,10
+77,Seat,Electronics,Barton PLC,174.29,29.47,44
+78,Son,Electronics,Elliott PLC,158.21,158.65,38
+79,No,Toys,Wade Group,111.6,174.25,13
+80,Dark,Furniture,Hickman-White,48.96,192.43,5
+81,West,Clothing,King Ltd,95.5,173.42,30
+82,Find,Furniture,Rivas-Kim,172.62,108.81,36
+83,Build,Electronics,Golden-King,108.74,96.88,2
+84,A,Furniture,Diaz-Rodriguez,58.35,209.41,37
+85,Owner,Toys,"Fleming, Vasquez and Farrell",129.21,194.07,8
+86,Country,Groceries,Schultz Ltd,168.62,74.4,42
+87,Job,Clothing,"Jones, Smith and Shields",165.56,183.96,28
+88,Now,Toys,Bryant Inc,69.51,95.9,41
+89,Major,Electronics,Macias-Cooper,163.97,181.93,28
+90,Happen,Groceries,Ingram PLC,124.23,37.54,16
+91,Involve,Furniture,"Delgado, Stewart and Oliver",119.49,73.51,20
+92,Establish,Clothing,"Orozco, Anderson and Kramer",96.72,23.03,39
+93,Win,Clothing,Jordan LLC,178.25,67.96,15
+94,Prove,Furniture,Stewart-Cabrera,83.35,224.68,28
+95,TRUE,Clothing,Williams-Taylor,73.74,72.74,50
+96,Care,Clothing,"Fernandez, Moore and Wang",128.28,212.53,37
+97,Focus,Toys,"Kim, Suarez and Howard",10.43,230.75,38
+98,Throughout,Toys,Martinez Ltd,105.37,69.86,29
+99,Shake,Furniture,"Summers, Harris and Peterson",66.86,153.91,10
+100,Road,Toys,Scott-Powell,16.05,224.75,47
+101,Only,Electronics,Brown-Johnson,22.73,42.82,10
+102,Buy,Electronics,Bradshaw-Dominguez,64.48,228.28,23
+103,Phone,Toys,Burns PLC,79.81,91.61,18
+104,Available,Electronics,"Alvarez, West and Andrews",143.1,72.68,25
+105,Water,Electronics,Smith and Sons,30.24,50.6,49
+106,Car,Toys,"Fleming, Boyle and Myers",117.01,64.86,21
+107,Learn,Toys,"Wiggins, Dorsey and Hughes",47.64,209.37,20
+108,Each,Clothing,Gonzalez and Sons,38.28,58.26,18
+109,Cup,Toys,"Thompson, Lee and Hughes",144.38,166.4,34
+110,Bad,Electronics,Mcguire LLC,91.97,224.18,50
+111,Question,Clothing,King-Garcia,169.93,72.59,25
+112,Course,Furniture,"Lee, Miller and Mercer",116.99,236.84,2
+113,Tax,Furniture,Miller Ltd,82.82,18.09,10
+114,Book,Toys,Schroeder Inc,183.85,153.62,3
+115,Candidate,Clothing,Barnes-Lowery,116.18,64.09,41
+116,Remain,Toys,Aguirre-Cortez,86.86,143.21,23
+117,Reveal,Toys,Jackson-Hunter,117.32,171.14,40
+118,Himself,Groceries,Matthews-Ryan,73.62,207.96,46
+119,Suggest,Toys,Rivera-Richard,157.72,33.9,25
+120,Above,Groceries,Lewis-Richardson,7.98,200.17,35
+121,Police,Electronics,Oconnor-Whitaker,165.37,113.24,8
+122,Suggest,Toys,Rocha-Sanchez,171.47,21.86,9
+123,Letter,Toys,Johnson PLC,22.61,235.07,47
+124,Music,Furniture,Williams-Robinson,146.75,69.9,21
+125,Us,Toys,"Baker, Roberts and Gallegos",171.2,57.74,25
+126,Matter,Groceries,"Meyer, Osborn and Evans",174.87,130.05,39
+127,Quickly,Clothing,Hall and Sons,121.36,27.37,6
+128,Than,Toys,"Benjamin, Robinson and Merritt",111.79,58.05,41
+129,Business,Furniture,"Brown, Nelson and Durham",109.32,246.51,38
+130,Wish,Furniture,Galvan-Wright,50.54,247.01,11
+131,Impact,Electronics,Mcmillan-Glass,26.8,246.71,14
+132,Professor,Electronics,"Chapman, Craig and Hudson",116.24,68.55,10
+133,Customer,Toys,Bush Inc,152.43,149.03,23
+134,Clearly,Electronics,"Hayes, Jenkins and Ferguson",67,216.34,29
+135,Produce,Toys,Williams-Griffith,129.81,23.35,30
+136,Them,Furniture,Chandler and Sons,77.37,167.52,15
+137,Method,Electronics,Phillips Group,119.95,187.56,12
+138,Become,Toys,Robbins-Richardson,196.41,78.16,32
+139,Artist,Electronics,Jackson-Johnston,158.99,22.02,9
+140,Style,Groceries,Adams Group,135.54,100.41,41
+141,During,Furniture,Ruiz-Allen,31.96,51.22,35
+142,Quality,Electronics,Stephens and Sons,18.68,28.84,1
+143,Official,Toys,Richards Ltd,62.87,214.81,36
+144,Entire,Toys,"Vega, Mcintosh and Yoder",187.03,208.67,47
+145,Meeting,Furniture,"Turner, Burnett and Mcguire",25.01,22.71,41
+146,Clear,Clothing,Copeland-Donovan,80.37,80.54,44
+147,Wind,Electronics,Gaines-Rodriguez,118.29,83.43,13
+148,Visit,Toys,Mcbride-Adams,174.62,120.52,37
+149,Behavior,Groceries,"Price, Mcdonald and Shields",151.66,181.52,35
+150,Although,Furniture,Stewart-Miller,111.78,218.39,28
+151,Give,Groceries,Pitts-Jackson,85.3,53.23,27
+152,Stop,Toys,"Peck, Burke and Murray",64.96,101.04,17
+153,Ground,Groceries,Hudson Group,148.71,153.68,9
+154,Story,Furniture,"Perez, Reyes and Lloyd",135.72,22.44,21
+155,Rock,Groceries,"Henry, Fisher and Johnson",111.2,18.85,8
+156,First,Toys,Johnson-Wood,48.02,75.74,36
+157,Risk,Clothing,"Prince, Salazar and Hernandez",58.17,190.13,42
+158,Machine,Electronics,Krueger-Morris,113.78,187.88,48
+159,Seat,Electronics,"Hill, Daniels and Krueger",92.54,40.06,31
+160,Coach,Electronics,Dodson-Ward,27.62,23.23,15
+161,Hotel,Electronics,Lopez-King,186.07,86.28,7
+162,Six,Clothing,Morales LLC,139.76,10.79,50
+163,Government,Toys,Harrison and Sons,37.54,26.64,48
+164,He,Clothing,"Sanford, Hicks and Miller",14.81,93.68,6
+165,Tv,Electronics,Brown-Todd,80.15,213.34,49
+166,Material,Clothing,"Klein, Fowler and Harris",90,110.63,42
+167,Bar,Electronics,Hughes-Horn,197.11,181.18,12
+168,South,Groceries,Mcintosh Group,150.43,131.81,33
+169,Ago,Furniture,Kelley-Williams,130.39,215.93,37
+170,Upon,Toys,Mcdonald Group,169.98,113.97,24
+171,Garden,Clothing,Williams-Smith,115.41,184.73,12
+172,Natural,Clothing,Cannon Ltd,152.98,11.7,10
+173,Operation,Clothing,West-Thomas,6.99,148.61,46
+174,Address,Electronics,Spencer Group,25.83,144.8,23
+175,Us,Groceries,"Lee, Webb and Maddox",106.72,100.74,29
+176,Contain,Toys,Singleton LLC,38.41,90.89,44
+177,Kind,Electronics,Page LLC,64.42,137.31,9
+178,Read,Electronics,Levine-Jacobson,65.69,207.29,15
+179,Represent,Toys,"Allen, Gardner and Davenport",10.07,115.51,50
+180,Claim,Toys,Cox Group,76.28,176.82,27
+181,Write,Groceries,Reyes-Martin,71.45,199.33,15
+182,Market,Electronics,Johnson-Church,163.1,105.39,11
+183,Value,Toys,"Rocha, Kelly and Mcguire",69.34,98.99,49
+184,Its,Electronics,Henry-Ward,96.94,127.19,8
+185,History,Furniture,Chavez-Jones,161.03,100.91,5
+186,Hair,Toys,Patrick-Lynch,39.28,41.22,10
+187,Already,Groceries,"Bowman, Williams and Goodman",119.36,247.1,36
+188,Hot,Furniture,Bond Group,122.47,200.9,20
+189,Much,Furniture,Stephens-Smith,167.04,15.78,18
+190,Safe,Electronics,Hansen LLC,78.38,235.86,38
+191,Dinner,Groceries,Watson-Porter,73.42,90.95,27
+192,Foot,Toys,Kelley Group,94.24,231.46,1
+193,Series,Clothing,Johnson-Brown,84.35,162.74,29
+194,Part,Clothing,"Flores, Wells and Reid",98.9,138.76,23
+195,Future,Electronics,Morales and Sons,179.14,153.65,41
+196,They,Electronics,Bates-Silva,13.58,152.96,47
+197,Ability,Furniture,"Grant, Garcia and Doyle",135.21,229.19,16
+198,Meet,Electronics,Blackwell-Thomas,64.9,40.06,34
+199,Action,Groceries,Vargas-Evans,177.49,239.73,6
+200,Or,Furniture,Armstrong-Simmons,14.39,104.34,46
+201,Time,Toys,Marsh-White,27.22,248.17,37
+202,Better,Toys,Smith LLC,107.55,203.04,42
+203,Food,Toys,Moore-Murray,11.97,126.41,42
+204,Answer,Groceries,Moore LLC,124.11,75.34,20
+205,Wait,Furniture,"Jackson, King and Spencer",35.02,232.75,32
+206,Perhaps,Toys,Walters Inc,160.69,33.38,27
+207,Able,Clothing,Taylor-Winters,134.77,35.86,37
+208,Somebody,Furniture,Gibbs LLC,50.65,156.16,11
+209,Product,Clothing,Lee-Nguyen,59.73,180.81,17
+210,Figure,Groceries,Avery LLC,42.54,46.45,8
+211,Each,Electronics,Brown-Foster,123.88,141.48,6
+212,Respond,Electronics,Romero-Clark,65.31,187.04,40
+213,Performance,Electronics,"Villanueva, Woodard and Greene",101.15,109.82,37
+214,Along,Clothing,"Frost, Thompson and Jones",79.88,212.59,42
+215,Challenge,Furniture,Arnold LLC,136.4,209.16,48
+216,Avoid,Toys,Walker PLC,186.08,15.37,37
+217,Concern,Clothing,"Brandt, Schaefer and Taylor",142.39,33.73,44
+218,Foot,Furniture,"Williams, Foster and Anderson",136.8,232.16,15
+219,Attention,Toys,Brock PLC,100.36,62.47,15
+220,Common,Electronics,"Nelson, Clark and Barton",45.55,214.76,49
+221,Cost,Groceries,"Mccarthy, Robinson and Fisher",40.52,89.33,10
+222,Meeting,Toys,"Roberts, Pearson and Conway",44.61,189.72,47
+223,World,Clothing,Hernandez Inc,198.51,92.42,17
+224,Save,Groceries,Shaw-Steele,165.41,148.57,35
+225,Employee,Clothing,Garcia-Moore,145.46,73.14,47
+226,Reflect,Furniture,Sanchez PLC,49.78,217.37,43
+227,Consumer,Toys,Roth-Taylor,10.88,19.63,42
+228,Article,Groceries,"Rocha, Reynolds and West",120.1,130.05,20
+229,Real,Electronics,Sanders-Tanner,190,130.29,12
+230,Debate,Clothing,Grimes Group,177.31,126.93,25
+231,Skill,Furniture,Weaver LLC,123.77,145.69,35
+232,Chair,Electronics,Oconnor Ltd,124.07,148.56,12
+233,Ok,Clothing,Morrison-Pierce,151.27,236.51,42
+234,Window,Toys,Mccall-Sullivan,61.89,51.54,38
+235,Let,Clothing,"Dixon, Bryant and Ball",166.82,134.06,30
+236,Available,Furniture,"Hart, Maldonado and Sandoval",171.55,161.89,22
+237,Couple,Electronics,Moore-Cox,109.86,61.96,42
+238,Ten,Furniture,Johnson-Moody,71.69,69.32,4
+239,Democrat,Furniture,"West, Williams and Mckenzie",13.62,59.93,20
+240,Store,Toys,Jacobs and Sons,28.69,215.98,11
+241,Challenge,Clothing,Williams Group,83.7,22.41,19
+242,Information,Electronics,"Martinez, Kelly and Wiggins",47.67,46.53,23
+243,Main,Toys,Bates Inc,90.52,101.83,44
+244,Student,Toys,Rodriguez Inc,43.22,192.73,33
+245,Star,Toys,Garcia Inc,124.57,62.32,38
+246,Develop,Toys,Liu-Evans,26,88.53,22
+247,Vote,Clothing,Sanchez Group,19.49,62.49,8
+248,Amount,Groceries,Wright-Williams,62.72,116.24,1
+249,Piece,Clothing,"Williams, Bryant and Williams",40.65,171.65,2
+250,Kind,Furniture,"Zamora, Stout and Washington",41.5,105.34,4
+251,Down,Groceries,Lewis Ltd,106.19,50.46,28
+252,Raise,Electronics,Carter PLC,91.3,116.47,46
+253,Pick,Furniture,Silva-Hess,118.07,148.05,21
+254,Enough,Electronics,"Shields, Martin and Hebert",139.1,14.42,24
+255,Election,Furniture,Hansen-Mcdaniel,118.1,108.38,2
+256,Soon,Furniture,Wells-Schneider,110.45,135.66,49
+257,Hot,Furniture,Taylor-Ortiz,136.8,214.21,26
+258,Daughter,Furniture,Deleon PLC,178.15,231.84,40
+259,Wrong,Electronics,"Diaz, Howard and Campbell",191.83,34.81,3
+260,Through,Toys,"Snow, Hill and Riley",107.51,75.51,27
+261,Already,Clothing,Fisher-Patel,24.01,234.18,29
+262,Claim,Furniture,"Murphy, Ortiz and Salinas",146.05,28.84,39
+263,Sell,Furniture,Fox and Sons,14.29,69.16,31
+264,General,Groceries,"Davis, Park and Montgomery",187.53,161.01,14
+265,Cultural,Clothing,"Rogers, Stein and Fox",38.93,148.73,23
+266,Myself,Electronics,Smith-Bradshaw,115.06,134.55,33
+267,Around,Groceries,"Simmons, Carter and Lane",168.11,153.2,27
+268,Nor,Groceries,Munoz-Monroe,170.05,102.87,24
+269,Tough,Groceries,Mills Ltd,94.18,141.91,42
+270,Protect,Furniture,Ramsey LLC,17.4,181.74,28
+271,Group,Toys,"Pena, Pena and Thomas",143.41,120.38,45
+272,Water,Clothing,"Green, Harris and Pace",27.03,230.96,17
+273,Action,Electronics,Grant Inc,113.25,168.41,25
+274,Official,Toys,Martin Inc,41.62,225.38,48
+275,Church,Groceries,"Stevenson, Francis and Jones",120.19,165.77,16
+276,Enter,Furniture,"Ward, Mccoy and Harris",92.25,105.78,46
+277,Congress,Furniture,Taylor-Roberts,188.53,228.92,6
+278,Recently,Clothing,Harmon Group,184.3,92.05,23
+279,Meeting,Toys,"Murphy, Wood and Jones",37.08,41.84,42
+280,Truth,Clothing,"Parsons, Jones and Graves",79.88,123.05,28
+281,Grow,Clothing,"Hendricks, Wilson and Moody",180.67,108.75,7
+282,Thousand,Toys,Rodriguez Ltd,194.61,108.92,42
+283,Operation,Furniture,Hansen-Mcintosh,142.6,75.06,21
+284,From,Clothing,Anderson-Gates,151.99,168.69,38
+285,Score,Groceries,"Perez, Lee and Moreno",177.56,116.64,6
+286,Seat,Furniture,Stone-Chan,139.54,75.85,35
+287,Eight,Furniture,Hopkins-Smith,10.53,51.83,8
+288,Perform,Electronics,Gibson-Davis,40.64,108.82,11
+289,Decade,Clothing,Higgins-Green,43.36,239.25,33
+290,Large,Electronics,Johnson-Mclean,91.48,94.99,29
+291,Third,Clothing,Jackson-Parker,152.24,103.1,40
+292,Pay,Furniture,Holmes LLC,119.86,76.18,4
+293,Baby,Toys,Young Inc,16.61,197.04,12
+294,Explain,Toys,"Phillips, Parker and Brooks",8.6,20.74,19
+295,Father,Toys,"Patterson, Johnson and Henderson",194.12,105.19,11
+296,Other,Clothing,Owens PLC,10.28,220.03,37
+297,Paper,Furniture,"Moody, Stephens and Hanson",197.48,35.45,45
+298,Start,Clothing,Douglas-Odom,90.59,227.98,17
+299,Involve,Clothing,Fry-Johnston,100.67,95.96,39
+300,Per,Toys,Collins-Washington,127.85,103.36,27
+301,Us,Furniture,"Santiago, Davis and Scott",115.82,227.62,24
+302,Rather,Clothing,"Hahn, West and Guzman",121.48,204.78,43
+303,Ahead,Electronics,Johnson LLC,78.01,106.53,11
+304,Financial,Clothing,Bishop and Sons,159.3,190.16,36
+305,Fact,Electronics,Ross-Adams,177.99,49,40
+306,Item,Electronics,"Phillips, Powell and Griffin",12.78,248.55,24
+307,Try,Groceries,"Howard, Wiggins and Williams",114.13,120.18,30
+308,Own,Electronics,Roberts Group,38.67,149.51,8
+309,Human,Electronics,"Thompson, Benson and Sullivan",137.58,197.32,25
+310,No,Toys,Lee-Lucas,132.51,115.53,43
+311,Improve,Electronics,"Smith, Montoya and Young",109.38,155.02,29
+312,Return,Groceries,"Petersen, Myers and Mcmahon",124.22,27.65,41
+313,Garden,Toys,Knight-Wilson,126.82,224.27,21
+314,Policy,Electronics,Mcguire Group,120.72,135.94,43
+315,World,Groceries,Green and Sons,109.96,36.08,3
+316,Personal,Groceries,Baker-Glover,78.58,79.4,2
+317,Trouble,Furniture,Gray-Clark,50.6,181.52,37
+318,Southern,Furniture,"Black, Williams and Powell",136.77,67.04,50
+319,Beyond,Clothing,"Taylor, Kelley and Garcia",75.97,85.18,41
+320,Push,Toys,Savage Group,57.03,189.93,35
+321,Term,Clothing,Franco Group,97.81,195.83,9
+322,Rather,Toys,Baker-Johnson,138.85,158.97,45
+323,Evening,Furniture,Adams-Beck,114.03,130.65,39
+324,Table,Toys,Pittman Inc,174.8,97.3,19
+325,Behind,Electronics,Hernandez-Hawkins,64.81,134.69,48
+326,Forget,Clothing,Woods-Hunter,126.93,211.18,6
+327,Mouth,Clothing,Fletcher PLC,104.28,241.33,11
+328,Answer,Toys,Morgan-Lewis,135.89,15.71,18
+329,Save,Clothing,Harmon-Flores,20.17,163.19,38
+330,Increase,Groceries,Cervantes-Brown,61.55,44.99,8
+331,Want,Clothing,Baker-Wright,27.71,54.39,20
+332,Thought,Electronics,"Hendricks, Smith and Wright",145.8,184.5,34
+333,Bar,Groceries,"Mathews, Thomas and Washington",44.92,51.08,21
+334,Note,Clothing,Forbes-Andrews,99.88,94.71,4
+335,Democratic,Furniture,Rose Ltd,65.49,55.35,5
+336,Focus,Groceries,Garcia Inc,72.76,133.3,20
+337,With,Clothing,"Hudson, Lewis and Garcia",115.19,168.64,23
+338,General,Furniture,Hall LLC,94.6,141.73,19
+339,Too,Toys,Grant-Lloyd,187.48,134.02,15
+340,Song,Groceries,Francis and Sons,121.31,65.31,13
+341,Role,Toys,Parker-Morris,73.49,141.27,7
+342,Station,Furniture,Mendez and Sons,40.48,62.01,24
+343,Culture,Clothing,Vance-Wright,150.55,130.46,11
+344,Special,Electronics,Wood Ltd,166.37,216.23,38
+345,Among,Toys,Chang and Sons,134.57,113.77,33
+346,Government,Toys,Harrison Group,195.58,233.28,33
+347,As,Toys,"Hartman, Armstrong and Vargas",163.51,118.53,19
+348,Daughter,Furniture,Smith and Sons,101.14,119.59,39
+349,Tv,Toys,Davis Group,167.35,138.41,3
+350,Man,Furniture,Scott-Jones,111.06,189.3,10
+351,Stuff,Toys,"Bryant, Griffith and Brown",166.47,246.88,27
+352,Key,Toys,Kennedy-Gallagher,160.85,245.23,35
+353,Stuff,Furniture,Faulkner Group,77.83,87.77,8
+354,Answer,Toys,Brooks and Sons,61.97,110.17,8
+355,Small,Furniture,"Fowler, Anderson and Simmons",193.34,129.05,44
+356,Animal,Furniture,"Foster, Martin and Singleton",47.63,125.45,4
+357,List,Clothing,Roach-Nelson,120.51,199.72,46
+358,Build,Furniture,Reynolds-Smith,46.46,84.63,1
+359,Not,Electronics,"Wallace, Brock and Davis",71.16,20.88,23
+360,Same,Toys,"Carey, Nunez and Rivera",55.39,15.2,7
+361,Public,Electronics,Walton Inc,159.15,109.67,46
+362,Nothing,Furniture,Murphy-Brooks,159.24,182.08,29
+363,Of,Clothing,White-Taylor,196.43,49.65,17
+364,Expect,Furniture,"Hogan, Evans and Anderson",123.32,121.93,2
+365,Figure,Electronics,"Fisher, Wood and Villarreal",191.97,50.82,28
+366,She,Groceries,Garcia-Vega,174.82,105.84,12
+367,Matter,Electronics,White-Evans,69.51,159.13,3
+368,Fund,Electronics,"Carrillo, Lynch and Barajas",26.61,224.94,6
+369,Skin,Toys,Benton-Hardin,70.82,211.27,20
+370,Six,Groceries,Turner and Sons,103.33,69.95,32
+371,Gas,Furniture,Jones-Torres,64.7,209.47,22
+372,Good,Toys,Evans-Ray,132.25,127.48,41
+373,Point,Groceries,Davis LLC,125.84,78.01,44
+374,Probably,Furniture,White-Evans,144.84,86.66,16
+375,Laugh,Groceries,Brooks-Baxter,194.61,53.52,20
+376,People,Furniture,"Miller, Mitchell and Smith",102.71,91.29,6
+377,Especially,Electronics,Morgan Inc,125.29,74.27,47
+378,Left,Furniture,Miller-Maldonado,124.68,40.14,21
+379,Say,Groceries,Rose-Randall,46.38,156.19,9
+380,Again,Clothing,Lee-Brown,96,128.35,15
+381,Time,Toys,Peters Group,86.44,124.09,45
+382,Tree,Groceries,"Morton, Townsend and Wright",186.65,160.2,26
+383,Story,Electronics,Palmer-Martin,22.85,174.87,24
+384,Message,Toys,Bennett-Floyd,107.42,43.06,26
+385,Share,Groceries,Brady-Freeman,16.45,249,2
+386,Smile,Toys,"Brown, Sherman and Smith",99.37,233.84,7
+387,Issue,Groceries,"Young, Hernandez and Hernandez",107.18,119.87,8
+388,Behind,Furniture,"Juarez, Davis and Decker",32.91,168.29,25
+389,How,Toys,Sanchez-Lucero,78.35,173.99,20
+390,Charge,Furniture,"Barnes, Jacobs and Grant",188.17,182.79,31
+391,Win,Furniture,Mcdowell-Taylor,25.14,202.34,5
+392,Over,Electronics,Green-Whitaker,82.79,56.07,42
+393,Half,Groceries,Ballard PLC,48.52,12,6
+394,Section,Furniture,Case-Terrell,189.84,121.94,40
+395,Happy,Furniture,Hart Ltd,199.22,158.35,40
+396,Each,Furniture,Smith LLC,153.78,211.08,47
+397,Culture,Clothing,"Hall, Gibbs and Pittman",20.73,131.79,11
+398,Radio,Electronics,Burton-West,179.54,107.51,43
+399,Region,Groceries,Barber Ltd,49.39,162.84,32
+400,It,Groceries,Garcia-Noble,141.48,174.61,49
+401,Drug,Groceries,Wolf-Marshall,166.93,16.92,29
+402,Treatment,Toys,May-Carroll,35.09,101.87,38
+403,Mind,Clothing,Chambers Ltd,19.71,38.27,29
+404,Message,Toys,Wells-Wong,116.58,121.44,27
+405,Then,Electronics,"Edwards, Perez and Lee",173.98,135.63,30
+406,Away,Furniture,Perkins-Davis,182.19,199.42,42
+407,Movement,Clothing,Hall-Hall,80.47,238.95,16
+408,Couple,Electronics,"Vasquez, Benitez and Joseph",21.61,88.98,38
+409,Without,Clothing,Garcia Inc,64.88,151.89,39
+410,Player,Furniture,Baker and Sons,48.63,159.06,44
+411,Late,Furniture,Johnson-Watson,169.98,30.5,37
+412,Involve,Furniture,"West, Hayes and Campbell",48.75,233.8,10
+413,Sister,Electronics,"Thompson, Williams and Shepard",7.38,42.8,25
+414,Affect,Groceries,"Crawford, Sawyer and Simmons",62.82,103.5,30
+415,Break,Clothing,Reese LLC,84.89,57.58,31
+416,Cover,Toys,Mcdonald-Cruz,10.52,10.61,22
+417,Positive,Electronics,Hampton Inc,106.53,207.96,23
+418,Determine,Toys,Ferguson-Smith,38.5,96.13,30
+419,Box,Clothing,Maddox-Hernandez,141.06,49.58,11
+420,Both,Toys,"Green, Martin and Ross",149.29,248.71,47
+421,Worker,Furniture,"Salinas, Harris and Richardson",16.33,145.1,1
+422,Energy,Electronics,Flores-Brown,46.88,37.95,47
+423,Check,Groceries,Morton Inc,76.5,19.76,18
+424,Realize,Electronics,Chapman LLC,141.14,244.5,6
+425,Nearly,Groceries,Thomas PLC,174.22,27.92,21
+426,Act,Clothing,"Jackson, Garcia and Kramer",137.56,59.59,18
+427,Course,Clothing,Shah and Sons,77.16,194.62,13
+428,Why,Toys,Stone-Shaffer,82.84,246.08,7
+429,Get,Furniture,Hunt LLC,160.33,178.5,12
+430,Point,Clothing,Robinson-Brady,97.49,202.23,34
+431,Next,Toys,Wilkerson LLC,75.45,42.59,46
+432,College,Groceries,"Bradley, Moss and Cruz",103.08,173.6,21
+433,Produce,Toys,Hill-Bell,125.2,39.93,49
+434,Politics,Clothing,"Hernandez, Benitez and Gonzalez",103.99,217.85,31
+435,Likely,Groceries,Rivera-Matthews,42.13,26.71,42
+436,Special,Toys,"Hoover, Garcia and Mccullough",60.63,183.85,2
+437,Hold,Clothing,"Mcdaniel, Mahoney and Weaver",8.66,240.74,35
+438,Rich,Furniture,"Tucker, Green and Hernandez",88.41,216.33,14
+439,Attack,Furniture,"Garcia, Mendez and Nguyen",5.54,133.13,49
+440,Low,Clothing,"Larson, Bryan and Brown",146.82,227.25,18
+441,Civil,Furniture,Williams and Sons,134.21,201.73,28
+442,Best,Groceries,Sullivan-Mclaughlin,5.66,39.66,7
+443,Agreement,Electronics,White Group,165.47,32.76,39
+444,Sea,Electronics,Alexander Group,185.49,212.85,25
+445,Bring,Clothing,"Martinez, Walker and Greene",69.74,64.74,37
+446,Increase,Furniture,Taylor Inc,124.73,135.27,33
+447,Better,Clothing,Cobb and Sons,10.57,53.5,49
+448,Easy,Toys,Romero-Gutierrez,68.36,163.84,49
+449,Car,Toys,Gutierrez-Harrison,51.36,146.48,27
+450,After,Electronics,Miller-Smith,149.45,137.61,11
+451,Defense,Electronics,"Barnes, Rodriguez and Green",63.14,175.92,30
+452,Skill,Groceries,"Mendoza, Davis and Jones",89.71,168.73,40
+453,Million,Toys,"Shaw, Dalton and Daniels",154.75,126.67,12
+454,Cut,Toys,Goodman-Richardson,116.22,93.95,42
+455,Where,Electronics,Robinson Group,37.85,134.52,6
+456,Bring,Clothing,Porter and Sons,68.41,51.18,49
+457,Film,Furniture,Williams Ltd,20.5,29.68,27
+458,Fear,Toys,Solis Inc,132.83,30.61,8
+459,Class,Clothing,"Vang, Simmons and Miller",103.24,166.35,3
+460,Pm,Groceries,Williams-Burnett,37.09,174.45,49
+461,Rise,Toys,Mayer-Schaefer,78.11,52.74,5
+462,Can,Furniture,Cruz and Sons,118.77,17.28,33
+463,Key,Toys,Harris-Myers,46.76,144.85,43
+464,Consumer,Furniture,"Simmons, Phillips and Summers",119.23,136.93,38
+465,Unit,Groceries,Webster and Sons,189.72,143.24,38
+466,Admit,Furniture,Logan-Carroll,97.61,93.8,11
+467,Ahead,Electronics,Thompson LLC,187.03,237.26,37
+468,Might,Clothing,Lopez PLC,116.39,207.93,49
+469,Early,Clothing,"White, Lee and Sanchez",93.47,166.57,6
+470,Computer,Furniture,Schmidt LLC,100.81,182.66,4
+471,Hard,Furniture,Torres and Sons,110.03,84.78,30
+472,Ten,Groceries,"Warner, Johnson and Johnson",188.6,10.37,42
+473,Sell,Electronics,Crawford-Gonzalez,90.51,188.59,8
+474,Know,Furniture,Singleton Ltd,35.05,239.64,19
+475,Security,Electronics,Harvey Inc,71.51,76.15,7
+476,Writer,Toys,"Mendez, Carr and Dennis",15.45,169.64,34
+477,Study,Toys,"Johnson, Wiley and Stone",28.95,115.89,49
+478,Fall,Furniture,Howard-Gross,51.54,69.86,29
+479,Whole,Clothing,"Smith, Rogers and Ortiz",91.11,77.05,24
+480,Throw,Electronics,George PLC,184.36,122.03,38
+481,Last,Groceries,"Burns, Gallegos and Lee",109.64,72.38,30
+482,Could,Groceries,"Garcia, Brown and Newman",112.06,219.63,43
+483,Center,Clothing,Hamilton-Smith,45.23,111.01,27
+484,Significant,Groceries,Spencer-Knox,172.28,123.65,40
+485,Economic,Clothing,Thompson-Alvarez,93.96,24.58,39
+486,Within,Furniture,"Chen, Maldonado and Mccormick",74.66,120.48,48
+487,Term,Electronics,Lewis Inc,26.2,121.71,11
+488,My,Furniture,Jefferson-Moore,102.9,30.52,43
+489,Light,Toys,Ford Ltd,180.01,196.64,21
+490,Condition,Electronics,"Morgan, Juarez and Sanders",56.9,216.6,24
+491,Such,Furniture,Reed Group,66.8,10.92,24
+492,Rather,Groceries,Newman-Gibson,114.17,242.02,7
+493,If,Clothing,Esparza-Morrison,20.1,246.5,48
+494,Carry,Toys,"Vaughn, Santos and Holland",70.5,88.72,44
+495,Top,Electronics,Thompson Group,64.12,113.43,10
+496,Democrat,Electronics,"Moore, Anderson and Ryan",86.85,249.26,31
+497,Boy,Electronics,Mcconnell Group,40.28,40.73,5
+498,Range,Furniture,Page-Dorsey,147.94,124.32,40
+499,Attack,Toys,"Cooper, Rivas and Juarez",89.76,29.81,26
+500,Value,Furniture,Kelly Ltd,144.8,171.68,25

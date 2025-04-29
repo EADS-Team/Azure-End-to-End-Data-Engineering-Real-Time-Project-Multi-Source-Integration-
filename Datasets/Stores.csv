@@ -1,0 +1,101 @@
+store_id,store_name,location,manager_name,opening_date,store_type
+1,"Nelson, Rodriguez and Warren",North Meghanbury,Kathryn Dominguez,14-05-2020,Clothing
+2,"Townsend, Martin and Ferguson",West Ricardo,Jennifer Gallegos,20-01-2021,Electronics
+3,Richardson and Sons,Lake Pamela,Nichole Nunez,30-12-2019,Furniture
+4,"Shaw, Lane and Hess",Wangton,Jimmy Smith,21-07-2020,Grocery
+5,"Singh, Adkins and Monroe",New Davidstad,Summer Brown,21-12-2016,Supermarket
+6,Simpson Ltd,Jeffreyborough,Justin Johnson,03-03-2018,Furniture
+7,Stokes Inc,East Jessica,Steven Hardin,05-11-2024,Grocery
+8,Hicks Group,Lewisland,Jessica Nelson,30-10-2021,Clothing
+9,Cook-Williams,Walkerville,Robin Anderson,22-08-2021,Supermarket
+10,Sullivan Group,West Kellyfurt,Kevin Ramirez,16-11-2015,Supermarket
+11,Pittman Inc,New Deniseport,Jeremy Simpson,16-04-2023,Supermarket
+12,"Yang, Mcdonald and Martin",Shannonfurt,Latasha Scott,03-04-2024,Electronics
+13,Wilson LLC,West David,Stacey Wilson,29-05-2017,Clothing
+14,Summers Inc,South Codyside,Aaron Lee,22-06-2018,Grocery
+15,Fritz-Fields,Schwartzchester,James Woods,18-04-2019,Grocery
+16,Farmer-Johnston,East Jesse,Lauren Grant,17-10-2018,Grocery
+17,Lewis and Sons,Tracychester,Jennifer Rogers,02-09-2018,Supermarket
+18,"Hamilton, James and Holmes",Lake Stacyville,Tammy Phelps,18-12-2021,Furniture
+19,Mayer-Palmer,New Rita,Brandon Perez,03-06-2019,Clothing
+20,Ramirez Group,Taraside,Katelyn Howell,20-02-2016,Grocery
+21,"Marshall, Stephenson and Smith",West Sarah,Joan Lang,06-12-2024,Furniture
+22,Medina and Sons,New Taraport,John Henderson,18-12-2020,Supermarket
+23,"Palmer, Camacho and Johnson",East Hollyhaven,Evan Patterson,22-02-2021,Supermarket
+24,Roach PLC,Jennaville,Angel Collins,24-08-2015,Grocery
+25,"Hart, Williams and Tate",Lake Curtis,Keith Palmer,18-02-2017,Furniture
+26,Martin-Meyer,Stevenshaven,Michelle Holder,16-08-2015,Furniture
+27,Lee-Stein,West Donna,Edward Hutchinson,10-04-2019,Grocery
+28,Jones Inc,East Steven,Jane Beard,09-05-2023,Electronics
+29,Baker-George,Lake Justin,Sheri Acosta,15-06-2024,Electronics
+30,"Bartlett, Short and Butler",East Bryanburgh,Tara Guerrero,09-04-2022,Supermarket
+31,Phillips-Sosa,East John,Shawn Martin,07-01-2021,Clothing
+32,Butler LLC,Lake Kyle,Gregory Ayala,23-02-2020,Clothing
+33,Phillips-Jackson,Huffbury,Kelly Daugherty,29-03-2017,Furniture
+34,Walker and Sons,Thompsonview,Kathleen Cole,17-07-2015,Supermarket
+35,Stout Ltd,Robertsview,Marilyn Montoya,22-09-2017,Clothing
+36,"Blake, Hogan and Humphrey",Dennisland,Natalie Bush,12-11-2024,Grocery
+37,"Reese, Mendez and Lee",West Jeremyville,Rebekah Pham,18-05-2016,Clothing
+38,"Snyder, Anderson and Sanchez",East Nancystad,Kimberly Robinson PhD,18-07-2023,Electronics
+39,Church-Murphy,West Danielle,Michelle Casey,10-08-2024,Supermarket
+40,Williams Group,Danielburgh,Guy Rose,13-05-2015,Supermarket
+41,Costa Inc,New Eric,Mrs. Angela Castaneda,12-09-2016,Grocery
+42,Lewis and Sons,Juanland,Tammy Smith,21-04-2024,Clothing
+43,"Brewer, Wagner and Thompson",North Benjaminview,David Chapman,30-09-2023,Clothing
+44,Williams-Reyes,Robertsonview,Edward Watson,03-08-2019,Electronics
+45,Morris Inc,East Rebeccachester,Meredith Parker,07-04-2018,Grocery
+46,Howard Group,North Karen,Derrick Anderson,10-12-2019,Supermarket
+47,Murphy LLC,Cookfurt,Kimberly Bowers,30-11-2018,Furniture
+48,Smith Inc,East Cristian,Gregory Rhodes,24-12-2017,Clothing
+49,Ray-Snyder,Gabriellebury,Aaron Moon,13-10-2015,Electronics
+50,"Newman, Bond and Jones",Mendozamouth,Tanya Weaver,11-10-2018,Grocery
+51,"Kirby, Williamson and Trujillo",West Stacybury,Charles Wells,01-03-2025,Furniture
+52,"Nguyen, Pratt and Brown",Rodriguezburgh,Carla Page,19-06-2018,Furniture
+53,Williams-Clayton,Lake Larry,Sharon Hernandez,15-04-2021,Clothing
+54,Carter-Kennedy,South Jason,Audrey Lee,21-05-2023,Supermarket
+55,Johnson Group,Matthewhaven,Sheri Ramsey,22-02-2018,Grocery
+56,"Randall, Williams and Bishop",Reyesburgh,Walter Dominguez,17-08-2017,Clothing
+57,Carr and Sons,East Zacharyview,David Ramirez,07-04-2017,Clothing
+58,Wilcox Ltd,Samuelmouth,Amanda Davis,02-07-2020,Grocery
+59,"Sanders, English and Hayes",Rebekahfurt,Eric Campbell,27-09-2015,Electronics
+60,Gonzalez Group,Younghaven,Christine Smith,15-11-2023,Clothing
+61,"Hoffman, Schaefer and Chapman",Roymouth,Amanda Murillo,03-05-2022,Grocery
+62,Gray-Brown,Port Jason,Maria Nguyen,10-08-2015,Grocery
+63,"Frank, Roberts and Day",Cookmouth,Cody Cummings,16-07-2018,Supermarket
+64,Weiss LLC,Lewisshire,Chloe Little,09-11-2023,Supermarket
+65,"Campbell, Pennington and Stewart",North Kevinhaven,Nicole Cline,19-10-2020,Supermarket
+66,"Smith, Winters and Blankenship",North Charleshaven,Janet Herman,08-05-2018,Grocery
+67,"Palmer, Lopez and Blackburn",Williamberg,Brian Cain,10-08-2021,Electronics
+68,Cunningham-Shaffer,Jasonport,Rebecca Jones,04-11-2020,Grocery
+69,"Roberts, Marks and Gonzalez",East Jacobshire,Miranda Johnson,02-04-2019,Grocery
+70,Stewart PLC,Port Erika,Robert Richards,27-10-2018,Electronics
+71,Galvan Ltd,Robertschester,Amber Allen,23-11-2022,Supermarket
+72,"Myers, Walker and Williams",Danaside,Shannon Mueller,08-10-2023,Clothing
+73,Valenzuela Inc,East Angela,Terri Jefferson,03-05-2019,Supermarket
+74,"Jones, Delacruz and Carroll",Millerbury,Mary Harrell,11-04-2021,Electronics
+75,"Werner, Larson and White",Lake Tinafurt,Erin Roth,19-05-2021,Furniture
+76,Davis Group,Tinaburgh,Joshua Compton,07-03-2023,Clothing
+77,"Flores, Carter and Castaneda",Lake Elizabethside,Christina Riddle,15-06-2023,Supermarket
+78,Webb Inc,Wolfeland,Jessica Miller,30-09-2023,Supermarket
+79,Johnson-Randall,Lake Jeffreyland,Sherry Williams MD,17-01-2024,Furniture
+80,"Campbell, Mckinney and Underwood",Lake Ashleyburgh,Logan Davis,13-01-2016,Clothing
+81,Jones and Sons,North Billyton,Anthony Adams,25-08-2024,Clothing
+82,Robinson-Kemp,New Martin,Jennifer Adams,27-01-2019,Grocery
+83,Johnson PLC,Janicestad,William Le,17-12-2024,Supermarket
+84,Clark and Sons,Ortizhaven,Amy Cruz,15-08-2020,Grocery
+85,Morris-Brady,North Brandon,Jennifer Stewart,24-08-2021,Grocery
+86,Gutierrez PLC,West Jasminestad,Zachary Pierce,22-04-2020,Grocery
+87,Osborn-Meyers,Cooktown,David Hughes,26-09-2023,Electronics
+88,"Johnson, Green and Hernandez",North Shannonfurt,Andrew Johnson,22-03-2021,Clothing
+89,Rhodes PLC,Jesseport,Joseph Brown,27-10-2024,Furniture
+90,White-Wilson,West Sarahberg,Ruben Peck,06-03-2016,Clothing
+91,Alexander PLC,Hunterside,Sandra Trevino,01-02-2021,Furniture
+92,Williams-Jackson,North Gabrielfurt,Michael Munoz,28-04-2022,Furniture
+93,Watts Ltd,East Johnville,Mary Alexander,17-09-2017,Clothing
+94,"Wagner, Williams and West",Fosterstad,Melissa Neal,10-11-2024,Supermarket
+95,Kirby Inc,South Monique,Ethan Mercado,12-02-2023,Grocery
+96,Miller LLC,Jeffreymouth,Tracy Morrow,02-09-2015,Grocery
+97,Wallace Inc,Port George,Andrew Kelley,22-06-2021,Supermarket
+98,Lucas-Carter,Dustinstad,Anthony Brown,06-03-2016,Grocery
+99,Mills-Turner,Lake Davidside,Roger Black,27-06-2015,Supermarket
+100,Cardenas-Clements,Port Andreaburgh,Jessica Davis,26-02-2024,Grocery
