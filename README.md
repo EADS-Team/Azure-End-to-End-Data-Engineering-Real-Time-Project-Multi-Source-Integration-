@@ -116,6 +116,8 @@ The project aims to support the following key business goals:
    * Validate transformations and joins in Retail_Dataset.
    * Confirm Power BI dashboards reflect current data.
 
+![Multi Source Integration](Screenshots/Multi%20Source%20Integration.png)
+
 ## Conclusion
 
 This real-time project showcases a powerful and flexible Azure pipeline for integrating heterogeneous data sources into a unified analytical model. By using Azure’s cloud-native services, the pipeline ensures efficient ingestion, transformation, automation, and rich visualization—delivering critical insights to business stakeholders.
