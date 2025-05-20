@@ -6,6 +6,8 @@ This project demonstrates a robust and scalable data engineering pipeline in Azu
 
 The objective is to build a unified data pipeline in Azure that ingests customer and sales data from multiple platforms—SQL Server, Oracle DB, GitHub, and Azure Blob Storage—into a centralized Azure Data Lake Storage (ADLS). The data is transformed into a consolidated dataset and modeled into facts and dimensions, providing stakeholders with a Power BI dashboard for advanced sales analytics.
 
+![Multi Source Workflow](Screenshots/Multi%20Source%20Workflow.png)
+
 ## Business Requirements
 
 The project aims to support the following key business goals:
